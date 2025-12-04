@@ -26,3 +26,4 @@ Privately… let’s just say my GitHub has seen things it can’t unsee.
 
 ---
 
+![My Gif](./mygif.gif)
