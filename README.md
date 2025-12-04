@@ -6,7 +6,7 @@ If an idea hits me, I’ll probably prototype it, break it, fix it, then ship it
 
 I enjoy crafting interfaces, exploring cybersecurity, and occasionally arguing with bugs that somehow win.
 
-I’ve built a handful of public projects, like **[Unite](https://github.com/xmr-gif/Unite-Website) - a project management tool for students**, [Prisme](https://github.com/xmr-gif/Prisme-Project), and random useful gadgets.  
+I’ve built a handful of public projects, like **[Unite](https://github.com/xmr-gif/Unite-Website) - a project management tool for students**, **[Prisme](https://github.com/xmr-gif/Prisme-Project)**, and random useful gadgets.  
 Privately… let’s just say my GitHub has seen things it can’t unsee.
 
 ---
@@ -26,4 +26,4 @@ Privately… let’s just say my GitHub has seen things it can’t unsee.
 
 ---
 
-![My Gif](./mario.gif)
+![My Gif](mario.gif)
