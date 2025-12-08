@@ -17,12 +17,10 @@ Privately… let’s just say my GitHub has seen things it can’t unsee.
 ---
 
 ### 🎉 Fun Facts  
-- I love Coffee.
+
 - Cybersecurity + pentesting enthusiast.  
 - I like building tools for *very* specific problems.  
 - I believe “I’ll clean my code later” is the biggest lie devs tell themselves.
-- I hate crowded places.
-- Hobbies: **Photography, coding, cybersecurity, drawing, problem solving**.
 
 ---
 
