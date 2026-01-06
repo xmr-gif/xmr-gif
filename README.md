@@ -1,27 +1,19 @@
 ## Hey there! 👋  
-I'm **OUSSAMA**, a Moroccan Software engineering student and tinkerer wandering somewhere between code editors and CTF flags.  
+**OUSSAMA** | Software Engineering Student 
 
-I love building things — apps, tools, experiments, anything that sparks curiosity.  
-If an idea hits me, I’ll probably prototype it, break it, fix it, then ship it anyway.
+     📍 From: Morocco
+     👨‍💻 What I do: Build apps & tools, tinker with cybersecurity.
+     🔧 Interests: UI/UX, Pentesting.
 
-I enjoy crafting interfaces, exploring cybersecurity, and occasionally arguing with bugs that somehow win.
+### 🚀 Key Projects: 
 
-I’ve built a handful of public projects, like **[Unite](https://github.com/xmr-gif/Unite-Website) - a project management tool for students**, **[Prisme](https://github.com/xmr-gif/Prisme-Project)**, and random useful gadgets.  
-Privately… let’s just say my GitHub has seen things it can’t unsee.
+    **[Unite](https://github.com/xmr-gif/Unite-Website) - (Student Project Tool)**
+    **[Prisme](https://github.com/xmr-gif/Prisme-Project)**
+    **[Hadith-App-Widget](https://github.com/xmr-gif/Hadith-App-Widget) - ⭐ (Fave)**
 
----
+### 😄 Fun Facts: 
 
-### 🌟 Favorite Project
-*[Hadith-App-Widget](https://github.com/xmr-gif/Hadith-App-Widget)*
-
----
-
-### 🎉 Fun Facts  
-
-- Cybersecurity + pentesting enthusiast.  
-- I like building tools for *very* specific problems.  
-- I believe “I’ll clean my code later” is the biggest lie devs tell themselves.
-
----
+     I build tools for very specific, weird problems.
+     "I'll clean my code later" - yeah, right.
 
 ![My Gif](mario.gif)
