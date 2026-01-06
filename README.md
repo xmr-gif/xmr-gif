@@ -1,9 +1,9 @@
 ## Hey there! 👋  
 **OUSSAMA** | Software Engineering Student 
 ---
-📍 From: Morocco
-👨‍💻 What I do: Build apps & tools, tinker with cybersecurity.
-🔧 Interests: UI/UX, Pentesting.
+*   📍 From: Morocco
+*   👨‍💻 What I do: Build apps & tools, tinker with cybersecurity.
+*   🔧 Interests: UI/UX, Pentesting.
 
 ---
 
