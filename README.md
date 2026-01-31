@@ -13,11 +13,4 @@
 * **[Prisme](https://github.com/xmr-gif/Prisme-Project)**
 * **[Hadith-App-Widget](https://github.com/xmr-gif/Hadith-App-Widget)** - ⭐ (Fave)
 
----
-
-### 😄 Fun Facts: 
-
-* I build tools for very specific, weird problems.
-* "I'll clean my code later" - yeah, right.
-
 ![My Gif](mario.gif)
